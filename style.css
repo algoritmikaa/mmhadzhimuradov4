@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    background-color: yellowgreen;
+    padding: 10px; 
+    margin-bottom: 10px;
+}
